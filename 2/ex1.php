@@ -15,4 +15,5 @@ $word2 = "moon";
 
 // Echo statement with modified variables
 echo "$word1, $word1 little $word2.<br>";
+echo "$word1, $word1 little $word2.<br>";
 ?>
